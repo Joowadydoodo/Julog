@@ -1,0 +1,2 @@
+# Julog
+Shitty Blog
